@@ -1,0 +1,7 @@
+{
+  "apiBlog": "https://2raapp.ir/API/Blog.aspx?type=1&categoryid=1",
+  "apiBlogCategory": "https://2raapp.ir/API/BlogCategory.aspx",
+  "apiService": "https://2raapp.ir/API/Service.aspx",
+  "apiLandingService": "https://2raapp.ir/API/LandingService.aspx",
+  "apiGallery": "https://2raapp.ir/api/gallery.aspx"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "name",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": ".",
+  "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.6.0",
+    "classnames": "^2.3.1",
+    "formik": "^2.2.9",
+    "loadjs": "^4.2.0",
+    "mapir-react-component": "^2.0.7",
+    "moment-jalaali": "^0.9.4",
+    "query-string": "^7.1.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-file-picker": "^0.0.6",
+    "react-helmet": "^6.1.0",
+    "react-lazyload": "^3.2.0",
+    "react-modal-image": "^2.6.0",
+    "react-pwa-install": "^1.0.12",
+    "react-pwa-install-ios": "^1.4.3",
+    "react-range": "^1.8.12",
+    "react-redux": "^7.2.3",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^5.0.1",
+    "react-tiny-modal": "^1.0.0",
+    "redux": "^4.0.5",
+    "yup": "^0.32.11"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
